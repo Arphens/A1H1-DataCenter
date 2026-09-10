@@ -57,12 +57,3 @@ Do not claim that it constitutes an official A1H1 release.
 Do not remove, obscure, or alter this notice for the purpose of misleading others regarding the origin, status, ownership, or authorization of the build.
 
 This document serves as a formal notice of non-authorization and an assertion that the existence of an unauthorized copy does not diminish, transfer, or supersede the rights associated with the legitimate A1H1 project and its respective creators.
-
-**STATUS:** UNAUTHORIZED
-**BUILD:** 1.0
-**AUTHORITY:** A1H1 / RESPECTIVE RIGHTS HOLDERS
-**DISTRIBUTION:** NOT AUTHORIZED
-**INSTALLATION:** NOT RECOMMENDED
-**REPRESENTATION AS OFFICIAL:** PROHIBITED WITHOUT AUTHORIZATION
-
-**END OF NOTICE**
